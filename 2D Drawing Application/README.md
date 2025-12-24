@@ -1,1 +1,1 @@
-Implements a graphic user interface (GUI) for a 2D drawing application.
+Implements a Graphical User Interface (GUI) for a 2D drawing application.
